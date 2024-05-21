@@ -1,5 +1,3 @@
-# WebApplication1
-
 ## 開發環境 VS 2022
 
 ## Nuget
@@ -11,6 +9,10 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 ```
+
+## 關鍵程式
+    - Models/ResultMessage.cs
+    - Pages/Index.cshtml.cs
 
 ## 資料庫 dapper
 
