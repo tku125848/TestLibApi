@@ -22,3 +22,7 @@
 
 https://blog.poychang.net/working-with-json-in-razor-pages-like-web-api/
 
+
+菜雞新訓記 (3): 使用 Dapper 來連線到資料庫 CRUD 吧
+
+https://igouist.github.io/post/2021/05/newbie-3-dapper/
