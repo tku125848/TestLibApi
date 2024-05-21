@@ -13,7 +13,7 @@
 ## 關鍵程式
     - Models/ResultMessage.cs
     - Pages/Index.cshtml.cs
-
+    - appsettings.json
 ## 資料庫 dapper
 
 ## 參考網站
